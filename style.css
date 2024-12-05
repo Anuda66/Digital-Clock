@@ -1,0 +1,27 @@
+#container{
+    min-height: '800px';
+    position: relative;
+}
+#clock{
+    text-align: center;
+    font-size: 72px;
+    background-color: rgb(5, 184, 74);
+    color: aliceblue;
+    min-width: 380px;
+    padding: 10px;
+   
+
+}
+#date{
+    text-align: center;
+    font-size: 72px;
+    background-color: blue;
+    color: aliceblue;
+    min-width: 380px;
+    padding: 10px;
+    
+}
+#bd{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,73,1) 35%, rgba(0,212,255,1) 100%);
+}
